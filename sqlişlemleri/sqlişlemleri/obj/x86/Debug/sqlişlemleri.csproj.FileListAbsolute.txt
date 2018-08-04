@@ -1,0 +1,11 @@
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\bin\Debug\sqlişlemleri.exe
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\bin\Debug\sqlişlemleri.pdb
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\sqlişlemleri.Form1.resources
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\sqlişlemleri.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\sqlişlemleri.exe
+c:\users\faruk\documents\visual studio 2010\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\sqlişlemleri.pdb
+C:\Users\faruk\Desktop\FORMAT DOSYALAR\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\sqlişlemleri.exe
+C:\Users\faruk\Desktop\FORMAT DOSYALAR\Projects\sqlişlemleri\sqlişlemleri\obj\x86\Debug\sqlişlemleri.pdb
