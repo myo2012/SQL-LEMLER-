@@ -1,1 +1,1 @@
-# SQL-LEMLER-
+# SQl İŞLEMLERİ
